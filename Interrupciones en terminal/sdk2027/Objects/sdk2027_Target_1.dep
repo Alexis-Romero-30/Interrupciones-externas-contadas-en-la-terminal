@@ -1,0 +1,46 @@
+Dependencies for Project 'sdk2027', Target 'Target_1': (DO NOT MODIFY !)
+CompilerVersion: 6240000::V6.24::ARMCLANG
+F (.\main.c)(0x6ADA5A54)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Default.LAPTOP-6PO6PU5S/AppData/Local/Arm/Packs/ARM/CMSIS/6.3.0/CMSIS/Core/Include-IC:/Users/Default.LAPTOP-6PO6PU5S/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="543" -DSTM32F10X_MD -D_RTE_-o ./objects/main.o -MMD)
+I (C:\Users\Default.LAPTOP-6PO6PU5S\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x6AA2D16F)
+I (RTE\_Target_1\RTE_Components.h)(0x6AD7A07D)
+I (C:\Users\Default.LAPTOP-6PO6PU5S\AppData\Local\Arm\Packs\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm3.h)(0x6A934399)
+I (C:\Users\Default.LAPTOP-6PO6PU5S\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x6AA2D16F)
+I (leds.h)(0x6AD7A07D)
+I (exti.h)(0x6ADA58BA)
+I (usart.h)(0x6ADA544F)
+F (.\leds.c)(0x6AD7A07D)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Default.LAPTOP-6PO6PU5S/AppData/Local/Arm/Packs/ARM/CMSIS/6.3.0/CMSIS/Core/Include-IC:/Users/Default.LAPTOP-6PO6PU5S/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="543" -DSTM32F10X_MD -D_RTE_-o ./objects/leds.o -MMD)
+I (C:\Users\Default.LAPTOP-6PO6PU5S\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x6AA2D16F)
+I (RTE\_Target_1\RTE_Components.h)(0x6AD7A07D)
+I (C:\Users\Default.LAPTOP-6PO6PU5S\AppData\Local\Arm\Packs\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm3.h)(0x6A934399)
+I (C:\Users\Default.LAPTOP-6PO6PU5S\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x6AA2D16F)
+I (delay.h)(0x6AD7A07D)
+F (.\exti.c)(0x6ADA5A54)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Default.LAPTOP-6PO6PU5S/AppData/Local/Arm/Packs/ARM/CMSIS/6.3.0/CMSIS/Core/Include-IC:/Users/Default.LAPTOP-6PO6PU5S/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="543" -DSTM32F10X_MD -D_RTE_-o ./objects/exti.o -MMD)
+I (C:\Users\Default.LAPTOP-6PO6PU5S\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x6AA2D16F)
+I (RTE\_Target_1\RTE_Components.h)(0x6AD7A07D)
+I (C:\Users\Default.LAPTOP-6PO6PU5S\AppData\Local\Arm\Packs\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm3.h)(0x6A934399)
+I (C:\Users\Default.LAPTOP-6PO6PU5S\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x6AA2D16F)
+I (exti.h)(0x6ADA58BA)
+I (leds.h)(0x6AD7A07D)
+I (usart.h)(0x6ADA544F)
+F (.\delay.c)(0x6AD7A07D)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Default.LAPTOP-6PO6PU5S/AppData/Local/Arm/Packs/ARM/CMSIS/6.3.0/CMSIS/Core/Include-IC:/Users/Default.LAPTOP-6PO6PU5S/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="543" -DSTM32F10X_MD -D_RTE_-o ./objects/delay.o -MMD)
+I (C:\Users\Default.LAPTOP-6PO6PU5S\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x6AA2D16F)
+I (RTE\_Target_1\RTE_Components.h)(0x6AD7A07D)
+I (C:\Users\Default.LAPTOP-6PO6PU5S\AppData\Local\Arm\Packs\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm3.h)(0x6A934399)
+I (C:\Users\Default.LAPTOP-6PO6PU5S\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x6AA2D16F)
+F (.\usart.c)(0x6ADA544F)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Default.LAPTOP-6PO6PU5S/AppData/Local/Arm/Packs/ARM/CMSIS/6.3.0/CMSIS/Core/Include-IC:/Users/Default.LAPTOP-6PO6PU5S/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="543" -DSTM32F10X_MD -D_RTE_-o ./objects/usart.o -MMD)
+I (usart.h)(0x6ADA544F)
+I (C:\Users\Default.LAPTOP-6PO6PU5S\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x6AA2D16F)
+I (RTE\_Target_1\RTE_Components.h)(0x6AD7A07D)
+I (C:\Users\Default.LAPTOP-6PO6PU5S\AppData\Local\Arm\Packs\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm3.h)(0x6A934399)
+I (C:\Users\Default.LAPTOP-6PO6PU5S\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x6AA2D16F)
+F (.\leds.h)(0x6AD7A07D)()
+F (.\exti.h)(0x6ADA58BA)()
+F (.\delay.h)(0x6AD7A07D)()
+F (.\usart.h)(0x6ADA544F)()
+F (RTE/Device/STM32F103C8/RTE_Device.h)(0x6AD7A07D)()
+F (RTE/Device/STM32F103C8/startup_stm32f10x_md.s)(0x6AD7A07D)(--target=arm-arm-none-eabi -mcpu=cortex-m3 -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Default.LAPTOP-6PO6PU5S/AppData/Local/Arm/Packs/ARM/CMSIS/6.3.0/CMSIS/Core/Include-IC:/Users/Default.LAPTOP-6PO6PU5S/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 543" -Wa,armasm,--pd,"STM32F10X_MD SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_stm32f10x_md.o)
+F (RTE/Device/STM32F103C8/system_stm32f10x.c)(0x6AD7A07D)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -ffunction-sections -Wall -Wextra -Wno-packed -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Default.LAPTOP-6PO6PU5S/AppData/Local/Arm/Packs/ARM/CMSIS/6.3.0/CMSIS/Core/Include-IC:/Users/Default.LAPTOP-6PO6PU5S/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="543" -DSTM32F10X_MD -D_RTE_-o ./objects/system_stm32f10x.o -MMD)
+I (C:\Users\Default.LAPTOP-6PO6PU5S\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x6AA2D16F)
+I (RTE\_Target_1\RTE_Components.h)(0x6AD7A07D)
+I (C:\Users\Default.LAPTOP-6PO6PU5S\AppData\Local\Arm\Packs\ARM\CMSIS\6.3.0\CMSIS\Core\Include\core_cm3.h)(0x6A934399)
+I (C:\Users\Default.LAPTOP-6PO6PU5S\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x6AA2D16F)
